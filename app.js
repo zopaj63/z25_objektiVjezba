@@ -42,4 +42,4 @@ var ficho = {
 
 console.log(Object.getOwnPropertyNames(ficho), ficho);
 
-console.log(JSON.stringify(ficho.printFicho()));
+console.log(JSON.stringify(ficho));
